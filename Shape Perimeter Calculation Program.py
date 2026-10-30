@@ -1,0 +1,12 @@
+Veena wants to learn how to calculate the perimeter of different shapes — Square, Rectangle, Circle, and Triangle — to implement them in programming.
+ a=int(input())
+l=int(input())
+w=int(input())
+r=int(input())
+s1=int(input())
+s2=int(input())
+b=int(input())
+print(4*a)
+print(2*(l+w))
+print("%.2f"%(2*3.14*r))
+print(s1+b+s2)
